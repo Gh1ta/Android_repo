@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myapplicationnonprogramatique'
+    namespace 'com.example.myapplicationsalamebroadcastreceiver'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.myapplicationnonprogramatique"
-        minSdk 25
+        applicationId "com.example.myapplicationsalamebroadcastreceiver"
+        minSdk 29
         targetSdk 32
         versionCode 1
         versionName "1.0"

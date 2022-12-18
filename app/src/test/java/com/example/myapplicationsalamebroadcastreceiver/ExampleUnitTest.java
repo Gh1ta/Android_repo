@@ -1,4 +1,4 @@
-package com.example.myapplicationnonprogramatique;
+package com.example.myapplicationsalamebroadcastreceiver;
 
 import org.junit.Test;
 
