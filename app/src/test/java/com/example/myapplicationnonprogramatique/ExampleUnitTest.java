@@ -1,4 +1,4 @@
-package aseds.ine2.contentprovidertest;
+package com.example.myapplicationnonprogramatique;
 
 import org.junit.Test;
 

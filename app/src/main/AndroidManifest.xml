@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ContentProviderTest"
+        android:theme="@style/Theme.MyApplicationNonProgramatique"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
@@ -25,11 +25,11 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-        <provider
-            android:name=".InptisteProvider"
-            android:authorities="aseds.ine2.contentprovidertest.InptisteProvider"
-            android:enabled="true"
-            android:exported="false"/>
+        <receiver android:name=".MyBroadcastReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.AIRPLANE_MODE"/>
+            </intent-filter>
+        </receiver>
     </application>
 
 </manifest>

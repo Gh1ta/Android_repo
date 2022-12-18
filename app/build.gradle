@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'aseds.ine2.contentprovidertest'
+    namespace 'com.example.myapplicationnonprogramatique'
     compileSdk 32
 
     defaultConfig {
-        applicationId "aseds.ine2.contentprovidertest"
-        minSdk 29
+        applicationId "com.example.myapplicationnonprogramatique"
+        minSdk 25
         targetSdk 32
         versionCode 1
         versionName "1.0"
