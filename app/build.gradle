@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myapplicationsalameservice'
+    namespace 'aseds.ine2.contentprovidertest'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.myapplicationsalameservice"
+        applicationId "aseds.ine2.contentprovidertest"
         minSdk 29
         targetSdk 32
         versionCode 1

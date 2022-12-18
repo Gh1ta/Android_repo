@@ -1,4 +1,4 @@
-package com.example.myapplicationsalameservice;
+package aseds.ine2.contentprovidertest;
 
 import org.junit.Test;
 
