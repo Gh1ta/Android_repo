@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application-ghita salame</string>
+    <string name="app_name">My Application salame service</string>
+    <string name="demarrer_service">Demarrer le service</string>
+    <string name="arreter_service">Arreter le service</string>
+    <string name="TexteExplicatif">Main activity</string>
+    <string name="TexteExplicatif2">Secondary activity</string>
 </resources>

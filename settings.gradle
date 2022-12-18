@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "My Application-ghita salame"
+rootProject.name = "My Application salame service"
 include ':app'
