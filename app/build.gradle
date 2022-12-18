@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myapplicationghitaintent'
+    namespace 'com.example.myapplicationsalameservice'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.myapplicationghitaintent"
+        applicationId "com.example.myapplicationsalameservice"
         minSdk 29
         targetSdk 32
         versionCode 1
