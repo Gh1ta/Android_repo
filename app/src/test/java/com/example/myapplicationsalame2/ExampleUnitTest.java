@@ -1,4 +1,4 @@
-package com.example.myapplicationsalameservice;
+package com.example.myapplicationsalame2;
 
 import org.junit.Test;
 

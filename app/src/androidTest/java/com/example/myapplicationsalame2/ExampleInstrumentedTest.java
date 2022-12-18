@@ -1,4 +1,4 @@
-package com.example.myapplicationsalameservice;
+package com.example.myapplicationsalame2;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.myapplicationsalameservice", appContext.getPackageName());
+        assertEquals("com.example.myapplicationsalame2", appContext.getPackageName());
     }
 }
