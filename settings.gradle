@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "My Application Salame 2"
+rootProject.name = "My Application ghita intent"
 include ':app'

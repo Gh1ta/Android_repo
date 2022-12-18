@@ -1,4 +1,4 @@
-package com.example.myapplicationsalame2;
+package com.example.myapplicationghitaintent;
 
 import org.junit.Test;
 
