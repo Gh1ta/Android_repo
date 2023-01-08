@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605017712254",
+    "project_id": "monquizz-ce113",
+    "storage_bucket": "monquizz-ce113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605017712254:android:186ce6c35c79c06b681a2f",
+        "android_client_info": {
+          "package_name": "com.inpt.monquizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605017712254-iu1cvle6qkpakesfab6vah8m8t2j8t3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3YBsg7bT0ovYIPOiJVxY0QoHcbOBE48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605017712254-iu1cvle6qkpakesfab6vah8m8t2j8t3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
